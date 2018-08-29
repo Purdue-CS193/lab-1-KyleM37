@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# KyleM37's first CS193 Lab
+
+- The dining courts as well as the on-the-go locations have many different options to choose from.
+- There are timers for pedestrians to use to cross the street, rather than having to try and get across while avoiding traffic.
+- Living on-campus gives you a sort of motivation to finish your work that I didn't have back in high shcool.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,13 +20,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-# KyleM37's first CS193 Lab
+
 - Bulleted
 - List
-
-- The dining courts as well as the on-the-go locations have many different options to choose from.
-- There are timers for pedestrians to use to cross the street, rather than having to try and get across while avoiding traffic.
-- Living on-campus gives you a sort of motivation to finish your work that I didn't have back in high shcool.
 
 1. Numbered
 2. List
