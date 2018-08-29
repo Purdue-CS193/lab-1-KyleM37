@@ -14,9 +14,13 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+# KyleM37's first CS193 Lab
 - Bulleted
 - List
+
+- The dining courts as well as the on-the-go locations have many different options to choose from.
+- There are timers for pedestrians to use to cross the street, rather than having to try and get across while avoiding traffic.
+- Living on-campus gives you a sort of motivation to finish your work that I didn't have back in high shcool.
 
 1. Numbered
 2. List
